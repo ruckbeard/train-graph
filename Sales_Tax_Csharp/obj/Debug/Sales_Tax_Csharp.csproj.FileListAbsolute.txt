@@ -1,0 +1,6 @@
+c:\users\scum\documents\visual studio 2013\Projects\Sales_Tax_Csharp\Sales_Tax_Csharp\bin\Debug\Sales_Tax_Csharp.exe.config
+c:\users\scum\documents\visual studio 2013\Projects\Sales_Tax_Csharp\Sales_Tax_Csharp\bin\Debug\Sales_Tax_Csharp.exe
+c:\users\scum\documents\visual studio 2013\Projects\Sales_Tax_Csharp\Sales_Tax_Csharp\bin\Debug\Sales_Tax_Csharp.pdb
+c:\users\scum\documents\visual studio 2013\Projects\Sales_Tax_Csharp\Sales_Tax_Csharp\obj\Debug\Sales_Tax_Csharp.csprojResolveAssemblyReference.cache
+c:\users\scum\documents\visual studio 2013\Projects\Sales_Tax_Csharp\Sales_Tax_Csharp\obj\Debug\Sales_Tax_Csharp.exe
+c:\users\scum\documents\visual studio 2013\Projects\Sales_Tax_Csharp\Sales_Tax_Csharp\obj\Debug\Sales_Tax_Csharp.pdb
